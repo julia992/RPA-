@@ -1,3 +1,4 @@
-a = 4 and 0.0 or 3
+import os
 
-print (0.0 or 3)
+# To open any program by their name recognized by windows
+os.startfile("mspaint")
